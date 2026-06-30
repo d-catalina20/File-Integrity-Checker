@@ -1,6 +1,7 @@
 # Log Integrity Checker
 
 A lightweight CLI security tool written in Python to monitor and verify the integrity of log files. By leveraging cryptographic hashing (SHA-256), this tool detects unauthorized changes or potential tampering in system and application logs, acting as a File Integrity Monitoring (FIM) solution.
+https://roadmap.sh/projects/file-integrity-checker
 
 ## Features
 - **File & Directory Support:** Accepts a path to a single log file or recursively scans an entire directory.
