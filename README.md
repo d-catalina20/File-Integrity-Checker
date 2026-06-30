@@ -18,7 +18,7 @@ A lightweight CLI security tool written in Python to monitor and verify the inte
 
 ## Installation & Setup
 
-**Clone the repository:**
+1. **Clone the repository:**
    	```bash
    	git clone [https://github.com/d-catalina20/File-Integrity-Checker.git](https://github.com/d-catalina20/File-Integrity-Checker.git)
    	cd File-Integrity-Checker
